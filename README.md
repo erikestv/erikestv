@@ -1,16 +1,14 @@
-## Hi there 👋
+# Erik Estevam
 
-<!--
-**erikestv/erikestv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Jornada do Herói
 
-Here are some ideas to get you started:
+Aos 17 anos, comecei a me interessar por tatuagem e tecnologia, e aos 18 escolhi a tatuagem. Passei aquele ano inteiro praticando sozinho, construindo meu Instagram e aprendendo na marra. Aos 19 anos, comecei a tatuar amigos e alguns clientes, meu Instagram cresceu, fiz colegas na área e cheguei a visitar salas comerciais para expandir meu trabalho. Aos 20 anos, trabalhei em um estúdio que eu admirava, mas percebi que queria mudar de direção. Aos 21 anos, entrei na faculdade de Sistemas de Informação e me encontrei na área de dados. Comecei trabalhando como assistente de CRM, analisando informações e apoiando o time comercial de vendas. Hoje, em 2026, sigo com a mesma dedicação e mentalidade que tinha aos 18 anos, evoluindo cada vez mais na área de dados. Sempre aprendendo, sempre evoluindo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas
+```
+Git • GitHub • Python • SQL • Power BI • Excel
+```
+## Repositórios de Estudo
+
+estudo_git  
+estudo_python
