@@ -11,5 +11,4 @@ Git • GitHub • Python • SQL • Power BI • Excel
 ## Repositórios de Estudo
 
 estudo_git  
-estudo_python<br>
-estudo_html_css_js
+estudo_python
