@@ -8,6 +8,10 @@ Aos 17 anos, comecei a me interessar por tatuagem e tecnologia, e aos 18 escolhi
 ```
 Git • GitHub • Python • SQL • Power BI • Excel
 ```
+## Portfólio/Currículo
+
+https://erikestv.github.io/Portifolio/
+
 ## Repositórios de Estudo
 
 estudo_git  
