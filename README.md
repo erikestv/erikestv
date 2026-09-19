@@ -10,7 +10,7 @@ Git • GitHub • Python • SQL • Power BI • Excel
 ```
 ## Portfólio/Currículo
 
-https://erikestv.github.io/Portifolio/
+https://portifolio-erikestv.pages.dev/
 
 ## Projetos
 
