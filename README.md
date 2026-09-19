@@ -12,6 +12,11 @@ Git • GitHub • Python • SQL • Power BI • Excel
 
 https://erikestv.github.io/Portifolio/
 
+## Projetos
+
+gerenciador_de_tarefas_react  
+flutter_tasks
+
 ## Repositórios de Estudo
 
 estudo_git  
